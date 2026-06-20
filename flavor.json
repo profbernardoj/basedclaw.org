@@ -1,10 +1,9 @@
 {
-  "name": "Morpheus Skill",
-  "slug": "morpheus-skill",
-  "domain": "morpheusclaw.com",
-  "description": "The canonical Morpheus decentralized AI agent skill for OpenClaw",
-  "remote": "https://github.com/profbernardoj/morpheus-skill.git",
+  "name": "Based Claw",
+  "slug": "basedclaw",
+  "domain": "basedclaw.org",
+  "description": "AI agent for Based AI distributed inference",
+  "remote": "https://github.com/profbernardoj/basedclaw.org.git",
   "defaultModel": "glm-5",
-  "persona": "Morpheus decentralized AI assistant",
-  "canonical": true
+  "persona": "Based AI inference assistant"
 }
